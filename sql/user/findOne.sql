@@ -1,0 +1,1 @@
+SELECT name, email, password FROM public.user WHERE email = $1;
